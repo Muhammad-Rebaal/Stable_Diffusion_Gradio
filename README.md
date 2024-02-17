@@ -16,6 +16,3 @@ This project aims to create a stable diffusion app utilizing Gradio and Diffuser
 ## Example Image
 ![Car Image](car.png)
 
-## Installation
-```markdown
-pip install gradio diffusers
